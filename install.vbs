@@ -46,7 +46,7 @@ excelApp.DisplayAlerts = False
 excelApp.Visible = False ' バックグラウンドで実行
 
 ' 【重要】Addを成功させるための「空ブックの追加」
-excelApp.Workbooks.Add 
+excelApp.Workbooks.Add
 
 ' 5. アドインの登録 (Add)
 On Error Resume Next
