@@ -69,10 +69,12 @@
 ---
 
 ## 📮 お問い合わせ
-不具合報告やご要望は、以下のいずれかまでお願いいたします。
+不具合報告やご要望、公開情報の確認は、以下をご利用ください。
 
 * **作者**: TASU
+* **メール**: [tasu0plus@gmail.com](mailto:tasu0plus@gmail.com)
 * **X (旧Twitter)**: [@ScatterPlus_Dev](https://x.com/ScatterPlus_Dev)
-* **公開元**: [note (ScatterPlus 開発ノート)](https://note.com/scatterplus_dev)
+* **公式note**: [ScatterPlus 開発ノート](https://note.com/scatterplus_dev)
+* **GitHub**: [TASU-plus/ScatterPlus](https://github.com/TASU-plus/ScatterPlus)
 
 **更新日**: 2026年7月
